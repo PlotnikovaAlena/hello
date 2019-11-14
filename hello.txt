@@ -3,3 +3,4 @@ New mark
 Что-то еще
 
 Рыбный день не удался!
+Hello, git rebase!
